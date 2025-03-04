@@ -6,7 +6,8 @@
         "items": [
           {
             "items": [
-              "#storage_picker:container",
+              "minecraft:chest",
+              "minecraft:barrel",
               "minecraft:lead",
               "minecraft:bundle",
               "minecraft:tripwire_hook"
