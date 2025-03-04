@@ -9,6 +9,8 @@
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/storage-picker-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/storage-picker-data-pack)
 [![Stars](https://img.shields.io/github/stars/lullaby6/storage-picker-data-pack?logo=github&color=yellow)](https://github.com/lullaby6/chest-picker-data-pack/stargazers)
 
+`Storage Picker` adds a handy item that lets you pick up container blocks with all their contents intact. Just use it on any block like a chest, barrel hopper, etc. and you'll get the block along with all the items inside. This makes moving your storage setups quick and simple!
+
 Version: `1.21.4`
 
 ## 📂 Installation
