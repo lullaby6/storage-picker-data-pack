@@ -1,1 +1,0 @@
-scoreboard objectives add chest_picker.player.use.carrot_on_a_stick minecraft.used:minecraft.carrot_on_a_stick

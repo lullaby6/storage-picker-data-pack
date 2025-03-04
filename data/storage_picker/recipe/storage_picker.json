@@ -2,7 +2,8 @@
     "type": "minecraft:crafting_shapeless",
     "category": "misc",
     "ingredients": [
-        "#chest_picker:container",
+        "#storage_picker:container",
+        "minecraft:lead",
         "minecraft:bundle",
         "minecraft:tripwire_hook"
     ],
@@ -13,12 +14,12 @@
             "minecraft:enchantment_glint_override": true,
             "minecraft:rarity": "rare",
             "minecraft:max_stack_size": 1,
-            "minecraft:item_model": "minecraft:chest",
+            "minecraft:item_model": "minecraft:yellow_bundle",
             "minecraft:custom_data": {
-                "chest_picker": true
+                "storage_picker": true
             },
-            "minecraft:custom_name": "{\"text\":\"Chest Picker\",\"italic\": false}",
-            "minecraft:lore": ["{\"text\":\"Use while sneaking to pick a chest or barrel\",\"italic\": false,\"color\":\"gray\"}"]
+            "minecraft:custom_name": "{\"text\":\"Storage Picker\",\"italic\": false}",
+            "minecraft:lore": ["{\"text\":\"Use while sneaking to pick a storage block\",\"italic\": false,\"color\":\"gray\"}"]
         }
     }
 }

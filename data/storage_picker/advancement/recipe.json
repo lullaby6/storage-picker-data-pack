@@ -6,7 +6,8 @@
         "items": [
           {
             "items": [
-              "#chest_picker:container",
+              "#storage_picker:container",
+              "minecraft:lead",
               "minecraft:bundle",
               "minecraft:tripwire_hook"
             ]
@@ -17,7 +18,7 @@
   },
   "rewards": {
     "recipes": [
-      "chest_picker:chest_picker"
+      "storage_picker:storage_picker"
     ]
   }
 }

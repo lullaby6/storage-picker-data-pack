@@ -1,1 +1,0 @@
-execute as @a if score @s chest_picker.player.use.carrot_on_a_stick matches 1.. run function chest_picker:player/use/carrot_on_a_stick
