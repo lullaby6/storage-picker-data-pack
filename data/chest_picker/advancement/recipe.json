@@ -1,0 +1,23 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "#chest_picker:container",
+              "minecraft:bundle",
+              "minecraft:tripwire_hook"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "chest_picker:chest_picker"
+    ]
+  }
+}
