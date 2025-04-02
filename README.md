@@ -11,7 +11,7 @@
 
 `Storage Picker` adds a handy item that lets you pick up container blocks with all their contents intact. Just use it on any block like a chest, barrel hopper, etc. and you'll get the block along with all the items inside. This makes moving your storage setups quick and simple!
 
-Version: `1.21.4`
+Version: `1.21.5`
 
 ## 📂 Installation
 
