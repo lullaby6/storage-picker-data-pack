@@ -19,7 +19,7 @@ Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
 
 ## 👾 Bugs/Issues
 
-Please report any bug/issues to the [Discord Server](https://discord.gg/5UdcDa5xNC) in the `bugs` channel, or create a issue in the [Github Repository](https://github.com/lullaby6/storage-picker-data-pack/issues).
+Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
 
 ## 🛠️ Recipe
 
